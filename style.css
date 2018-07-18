@@ -7,13 +7,13 @@ body {
 h1 {
   line-height: 58px;
   font-size: 40px;
-  color: #042f64;
+  color: #7B68EE;
 }
 
 h2 {
   font-size: 32px;
   font-weight: 800;
-  color: #042f64
+  color: #FFA500
 }
 
 p {
@@ -25,11 +25,11 @@ p {
 }
 
 a {
-  color: #f53465;
+  color: #FFA500;
 }
 
 .callout {
-  color: #f53465;
+  color: #FFA500;
 }
 
 .about-me .column:nth-of-type(2) {
@@ -46,7 +46,7 @@ header {
 
 header h1 {
   max-width: 60%;
-  margin: 0 auto;
+
 }
 
 .keyline {
@@ -58,7 +58,7 @@ header h1 {
   display: block;
   width: 32px;
   height: 6px;
-  background-color: #f53465;
+  background-color: #FFEFD5;
   position: absolute;
   top: -27px;
 }
